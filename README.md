@@ -24,7 +24,7 @@ Studies created with the official [Dall-E-2](https://openai.com/dall-e-2/?labs) 
 
 ### General Guides
 * [Official Dall-E-2 Dictionary](https://dalledictionary.notion.site/Art-Illustration-Styles-6198c0dc3b0f4a369c187144fbed0e83)
-  * Collection of Studies and Guides to start off
+  * Collection of studies and guides to start off
 * [Dall-E-2 Prompt Book](https://pitch.com/v/DALL-E-prompt-book-v1-tmd33y)
   * A guide to prompt building  
 
