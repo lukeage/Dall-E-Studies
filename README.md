@@ -8,17 +8,17 @@ Studies created with the official [Dall-E-2](https://openai.com/dall-e-2/?labs) 
 
 ### Varying Artists
 * [Woman Standing in the Hallway, by/in the style of ...](https://imgur.io/a/pJe9gK1)
-  * 27 different Artists and styles confirmed to be known by Dall-E 2
-  * Published on Imgur as Images
+  * 27 different artists and styles confirmed to be known by Dall-E-2
+  * Published on Imgur as images
 * [Varying objects/scenes, by/in the style of ...](https://drive.google.com/drive/folders/1Io7a3r0LdRZLr2p33LzRo5nDk0VTL9pM?sort=15&direction=d)
-  * 371 different Artists and styles
-  * Published on Google Drive as Images
+  * 371 different artists and styles
+  * Published on Google Drive as images
 
 
 ### Varying Mediums
 * [A Rose. ...](https://www.aviewfromai.com/168-art-mediums-on-paper)
-  * 168 Art Mediums on Paper
-  * Published on aviewfromai.com
+  * 168 art mediums on paper
+  * Published on aviewfromai.com as images
 
 
 
