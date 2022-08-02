@@ -3,7 +3,7 @@ A list of links to Dall-E studies that examine the effects of varying prompts ba
 Contributions are very welcome!
 
 ## Dall-E 2
-Studies made with the official [Dall-E-2](https://openai.com/dall-e-2/?labs) AI made by OpenAI
+Studies created with the official [Dall-E-2](https://openai.com/dall-e-2/?labs) AI made by OpenAI
 
 
 ### Varying Artists
@@ -29,5 +29,5 @@ Studies made with the official [Dall-E-2](https://openai.com/dall-e-2/?labs) AI 
   * A guide to prompt building  
 
 ## Dall-E Mini
-Studies made with the [Dall-E-Mini](https://github.com/borisdayma/dalle-mini) AI
+Studies created with the [Dall-E-Mini](https://github.com/borisdayma/dalle-mini) AI
 * [Cars made of different mediums in different environments](https://www.thedrive.com/news/dall-e-image-ai-weird-cars)
